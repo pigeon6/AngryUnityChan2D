@@ -1,0 +1,8 @@
+*.app
+*_iOS
+*.sln
+*.apk
+*.vsproj
+*.csproj
+Library
+Temp
